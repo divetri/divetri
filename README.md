@@ -9,3 +9,8 @@
 #### - 🌱 I’m currently learning front-end web and PWA
 #### - 🤔 I’m looking for help with ... everything haha since I'm noob in everything
 #### - 📫 How to reach me: [Twitter](https://twitter.com/dvtrhx)
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=divetri&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divetri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
