@@ -5,8 +5,7 @@
 
 ###  Here are some ideas to get you started:
 
-#### - 🔭 I’m currently trying to finish my thesis paper~
-#### - 🌱 I’m currently learning front-end web and [PWA](https://web.dev/what-are-pwas/)
+#### - 🌱 I’m currently learning C# for .NET [Doc](https://docs.microsoft.com/en-us/dotnet/csharp/)
 #### - 🤔 I’m looking for help with ... everything haha since I'm noob in everything
 #### - 📫 How to reach me: [Twitter](https://twitter.com/dvtrhx)
 
