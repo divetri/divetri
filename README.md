@@ -1,12 +1,12 @@
-### Hi, there. 안녕하세요. السلام عليكم. Halo semua~ 👋
+### Hi, there. Halo semua~ 👋
 
 <!--
 **divetri/divetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ###  Here are some ideas to get you started:
 
-#### - 🌱 I’m currently learning C# for .NET [Doc](https://docs.microsoft.com/en-us/dotnet/csharp/)
-#### - 🤔 I’m looking for help with ... everything haha since I'm noob in everything
+#### - 🌱 I’m currently learning [Go](https://go.dev/)
+#### - 🤔 I’m interested with FUNCTIONAL PROGRAMMING YEAH
 #### - 📫 How to reach me: [Twitter](https://twitter.com/dvtrhx)
 
 
