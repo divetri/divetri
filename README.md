@@ -6,7 +6,7 @@
 ###  Here are some ideas to get you started:
 
 #### - 🌱 I’m currently learning [Go](https://go.dev/)
-#### - 🤔 I’m interested with FUNCTIONAL PROGRAMMING YEAH
+#### - 🤔 I’m interested with solving problems at [LeetCode](https://leetcode.com/problemset).
 #### - 📫 How to reach me: [Twitter](https://twitter.com/dvtrhx)
 
 
