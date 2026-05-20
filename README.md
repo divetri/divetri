@@ -1,3 +1,5 @@
+## - 📝 [My Recent CV / Resume](https://drive.google.com/file/d/1jMR5MzZCqLK40uazQ1nhEqYjL5oD9j5N/view?usp=sharing)
+
 ### Hi, there. This is Divetri~ 👋
 
 <!--
